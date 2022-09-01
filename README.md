@@ -50,3 +50,5 @@ source .devops/bin/activate
 * Run via kubectl
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ayah206/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ayah206/project-ml-microservice-kubernetes/tree/master)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ayah206/project-ml-microservice-kubernetes/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Ayah206/project-ml-microservice-kubernetes/tree/master)
