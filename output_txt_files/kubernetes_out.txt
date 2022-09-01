@@ -1,5 +1,13 @@
+Error from server (AlreadyExists): pods "api" already exists
 NAME   READY   STATUS    RESTARTS   AGE
-api    1/1     Running   0          5m22s
+api    1/1     Running   0          102s
 Forwarding from 127.0.0.1:8080 -> 80
 Forwarding from [::1]:8080 -> 80
 Handling connection for 8080
+
+Port: 8080
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
